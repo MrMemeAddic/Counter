@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PeopleLog generated="2026-05-21 12:28:07">
+  <Summary>
+    <TotalEntries>2</TotalEntries>
+    <TotalExits>2</TotalExits>
+  </Summary>
+  <Events>
+    <Event>
+      <TrackID>1</TrackID>
+      <Type>EXIT</Type>
+      <Time>2026-05-21 12:27:25</Time>
+    </Event>
+    <Event>
+      <TrackID>1</TrackID>
+      <Type>ENTRY</Type>
+      <Time>2026-05-21 12:27:28</Time>
+    </Event>
+    <Event>
+      <TrackID>2</TrackID>
+      <Type>ENTRY</Type>
+      <Time>2026-05-21 12:27:48</Time>
+    </Event>
+    <Event>
+      <TrackID>2</TrackID>
+      <Type>EXIT</Type>
+      <Time>2026-05-21 12:27:50</Time>
+    </Event>
+  </Events>
+</PeopleLog>
